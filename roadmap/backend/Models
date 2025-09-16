@@ -1,0 +1,47 @@
+const mongoose = require('mongoose');
+
+const farmerSchema = new mongoose.Schema({
+  name: { type: String, required: true },
+  location: { type: String, required: true },
+  farmingType: {
+    type: String,
+    enum: ['crops', 'livestock', 'aquaculture'],
+    required: true
+  },
+  idNumber: { type: String, required: true },
+  createdAt: { type: Date, default: Date.now }
+});
+
+module.exports = mongoose.model('Farmer', farmerSchema);
+const mongoose = require('mongoose');
+
+const productSchema = new mongoose.Schema({
+  farmer: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'Farmer',
+    required: true
+  },
+  name: {
+    type: String,
+    required: true
+  },
+  category: {
+    type: String,
+    enum: ['vegetable', 'fruit', 'grain', 'meat', 'dairy'],
+    required: true
+  },
+  price: {
+    type: Number,
+    required: true
+  },
+  available: {
+    type: Boolean,
+    default: true
+  },
+  createdAt: {
+    type: Date,
+    default: Date.now
+  }
+});
+
+module.exports = mongoose.model('Product', productSchema);
