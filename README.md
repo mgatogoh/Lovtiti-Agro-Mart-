@@ -27,7 +27,10 @@
 - Promote fair trade and transparency
 
 ## 📽️ Demo Video
-[Watch on YouTube](your-video-link-here)
+[Watch on YouTube](## 📽️ Demo Video
+
+Watch the Farm2Market introduction on YouTube:  
+👉 [Farm2Market – Empowering African Farmers with Blockchain 🌍🌾](https://youtube.com/shorts/C6lBP8DBQ6k?si=jNyXDb96iVu5fGAZ)
 
 ## 🤝 Join Us
 We’re looking for developers, designers, and agricultural experts to help build this vision. Let’s collaborate!
