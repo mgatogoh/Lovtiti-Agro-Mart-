@@ -12,7 +12,7 @@ const app = express();
 app.use(express.json());
 
 // ✅ Use MongoDB URI from .env file
-mongoose.connect(process.env.MONGODB_URI, {
+mongodb+srv://farm2market_admin:0541095205@Mary@cluster0.hj7diyy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })
