@@ -1,6 +1,6 @@
-# 🌾 Farm2Market
+# 🌾 Lovtiti Agro Mart 
 
-**Farm2Market** is a decentralized marketplace connecting African farmers—crop growers, livestock keepers, aquaculture experts—with buyers using Hedera blockchain. Our mission is to eliminate middlemen, ensure fair pricing, and build trust through traceable transactions.
+**Lovtiti Agro Mart** is a decentralized marketplace connecting African farmers—crop growers, livestock keepers, aquaculture experts—with buyers using Hedera blockchain. Our mission is to eliminate middlemen, ensure fair pricing, and build trust through traceable transactions.
 
 ## 🚀 Features
 - Farmer identity verification
@@ -29,8 +29,8 @@
 ## 📽️ Demo Video
 [Watch on YouTube](## 📽️ Demo Video
 
-Watch the Farm2Market introduction on YouTube:  
-👉 [Farm2Market – Empowering African Farmers with Blockchain 🌍🌾](https://youtube.com/shorts/C6lBP8DBQ6k?si=jNyXDb96iVu5fGAZ)
+Watch the Lovtiti Agro Mart introduction on YouTube:  
+👉 [Lovtiti Agro Mart– Empowering African Farmers with Blockchain 🌍🌾](https://youtube.com/shorts/C6lBP8DBQ6k?si=jNyXDb96iVu5fGAZ)
 
 ## 🤝 Join Us
 We’re looking for developers, designers, and agricultural experts to help build this vision. Let’s collaborate!
