@@ -82,6 +82,7 @@ Lovitti-Agro-Mart/
 ├── README.md               # Project documentation
 ├── package.json            # Project metadata and dependencies
 └── LICENSE                 # MIT License
+
 # Install dependencies
 npm install
 
