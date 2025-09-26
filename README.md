@@ -83,6 +83,48 @@ Lovitti-Agro-Mart/
 ├── package.json            # Project metadata and dependencies
 └── LICENSE                 # MIT License
 
+## 🔐 How HARAR & HBAR Work Together in a Transaction
+Imagine a buyer named Amina wants to purchase tomatoes from a farmer named Kofi. Here’s how Lovitti Agro Mart uses HARAR and HBAR to make that transaction seamless and trustworthy:
+
+---
+
+🅷 History of Product (HARAR)
+- Amina views the entire lifecycle of the tomatoes: harvest date, handling process, and previous transactions.
+- This history is stored immutably on the Hedera Hashgraph using HBAR to anchor the data.
+
+🅰 Availability of Product (HARAR)
+- Real-time inventory shows how many crates are available.
+- Updates are written to the blockchain using HBAR microtransactions, ensuring accuracy and transparency.
+
+🆁 Reviews and Ratings (HARAR)
+- Amina checks feedback from other buyers.
+- Each review is timestamped and stored on-chain, secured by HBAR to prevent tampering.
+
+🅰 Authentication of Product (HARAR)
+- Kofi’s tomatoes carry a digital certificate verified by Lovitti’s smart contract.
+- The certificate is validated using HBAR-powered smart contract calls, confirming origin and legitimacy.
+
+🆁 Real-Time Updates (HARAR)
+- Amina receives live updates: payment confirmation, dispatch time, and delivery tracking.
+- Each update is logged on the Hedera network using HBAR, creating a transparent audit trail.
+
+---
+
+💸 Role of HBAR in Lovitti Agro Mart
+
+- Transaction Fees: Every blockchain interaction—whether storing data or executing smart contracts—is paid for using HBAR.
+- Smart Contract Execution: HARAR logic is embedded in smart contracts that run on Hedera, powered by HBAR.
+- Security & Speed: HBAR ensures fast, low-cost, and secure transactions—ideal for agricultural micro-payments.
+
+---
+
+🌍 Why This Matters
+
+By combining HARAR’s transparency with HBAR’s blockchain power, Lovitti Agro Mart creates a marketplace where:
+- Farmers are trusted
+- Buyers are informed
+- Every transaction is secure, traceable, and fair
+
 # Install dependencies
 npm install
 
