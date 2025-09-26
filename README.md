@@ -52,6 +52,36 @@ cd Lovitti-Agro-Mart
 - Uses **MongoDB**
 - Stores user profiles, product listings, transaction logs, and reviews
 
+## 🗂 Folder Structure Overview
+
+Lovitti-Agro-Mart/
+├── frontend/               # React.js frontend application
+│   ├── public/             # Static assets
+│   └── src/                # React components, pages, and styles
+│       ├── components/     # Reusable UI components
+│       ├── pages/          # Route-based pages
+│       └── assets/         # Images, icons, etc.
+
+├── backend/                # Node.js + Express backend
+│   ├── controllers/        # Business logic for API endpoints
+│   ├── models/             # Mongoose schemas for MongoDB
+│   ├── routes/             # Express route handlers
+│   ├── middleware/         # Auth and validation middleware
+│   └── server.js           # Entry point for backend server
+
+├── contracts/              # Solidity smart contracts
+│   ├── LovittiToken.sol    # Custom token contract
+│   └── Marketplace.sol     # Core marketplace logic
+
+├── config/                 # Environment and deployment configs
+│   └── .env                # Environment variables
+
+├── scripts/                # Deployment and utility scripts
+│   └── deploy.js           # Hardhat deployment script
+
+├── README.md               # Project documentation
+├── package.json            # Project metadata and dependencies
+└── LICENSE                 # MIT License
 # Install dependencies
 npm install
 
