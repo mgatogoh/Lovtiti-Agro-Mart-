@@ -16,6 +16,23 @@
 - Firebase (Authentication & Database)
 - IPFS (Optional for image storage)
 
+## 📦 Getting Started
+
+To set up the project locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/mgat/Lovitti-Agro-Mart.git
+
+# Navigate into the project directory
+cd Lovitti-Agro-Mart
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
 ## 📍 Target Users
 - Smallholder farmers across Africa
 - Restaurants, retailers, and households
