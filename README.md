@@ -32,6 +32,26 @@ git clone https://github.com/mgat/Lovitti-Agro-Mart.git
 # Navigate into the project directory
 cd Lovitti-Agro-Mart
 
+## 🗺 Architecture Overview
+### 🔹 Frontend
+- Built with **React.js**
+- Handles user interactions, product browsing, and marketplace UI
+- Communicates with backend APIs and smart contracts via Web3.js
+
+### 🔹 Backend
+- Built with **Node.js** and **Express**
+- Manages business logic, user authentication, and API endpoints
+- Interfaces with MongoDB and blockchain smart contracts
+
+### 🔹 Blockchain Layer
+- Powered by **NEAR Protocol** or **Hashgraph**
+- Handles secure transactions, smart contracts, and decentralized identity
+- Ensures transparency and trust between buyers and sellers
+
+### 🔹 Database
+- Uses **MongoDB**
+- Stores user profiles, product listings, transaction logs, and reviews
+
 # Install dependencies
 npm install
 
