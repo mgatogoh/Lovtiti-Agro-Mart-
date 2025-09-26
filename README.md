@@ -7,6 +7,10 @@
 
 **Lovtiti Agro Mart** is a decentralized marketplace connecting African farmers—crop growers, livestock keepers, aquaculture experts—with buyers using Hedera blockchain. Our mission is to eliminate middlemen, ensure fair pricing, and build trust through traceable transactions.
 
+## 🌍 Project Vision
+**Lovitti Agro Mart** is a decentralized agricultural marketplace built to empower African farmers, livestock keepers, and agro vendors by eliminating middlemen and ensuring fair pricing. Using blockchain technology and the HARAR framework—History, Availability, Reviews, Authentication, and Real-time updates—Lovitti delivers transparency and trust in every transaction. Powered by HBAR on Hedera Hashgraph, the platform enables secure, low-cost micro-payments and smart contract execution. From farm to market, Lovitti Agro Mart is redefining how agriculture connects across Africa.
+
+
 ## 🚀 Features
 - Farmer identity verification
 - Produce traceability
