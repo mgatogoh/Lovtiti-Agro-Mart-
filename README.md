@@ -1,3 +1,8 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Built with Node.js](https://img.shields.io/badge/Node.js-Built-informational)
+![Blockchain: NEAR](https://img.shields.io/badge/Blockchain-NEAR-informational)
+![Status: In Development](https://img.shields.io/badge/Status-In_Development-informational)
+
 # 🌾 Lovtiti Agro Mart 
 
 **Lovtiti Agro Mart** is a decentralized marketplace connecting African farmers—crop growers, livestock keepers, aquaculture experts—with buyers using Hedera blockchain. Our mission is to eliminate middlemen, ensure fair pricing, and build trust through traceable transactions.
