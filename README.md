@@ -9,9 +9,14 @@
 
 # 🌾 Lovtiti Agro Mart 
 
-**Lovtiti Agro Mart** is a decentralized marketplace connecting African farmers—crop growers, livestock keepers, aquaculture experts—with buyers using Hedera blockchain. Our mission is to eliminate middlemen, ensure fair pricing, and build trust through traceable transactions.
+## 🔗 Live Demo
+[Click here to preview Lovtiti Agro Mart](https://your-demo-link.com)
+
+## ❗ Problem Statement
+African farmers face post-harvest losses, limited market access, and unfair pricing due to middlemen. Lovtiti Agro Mart solves this by offering a decentralized platform that connects farmers directly to buyers using Hedera blockchain.
 
 ## 🌍 Project Vision
+
 **Lovitti Agro Mart** is a decentralized agricultural marketplace built to empower African farmers, livestock keepers, and agro vendors by eliminating middlemen and ensuring fair pricing. Using blockchain technology and the HARAR framework—History, Availability, Reviews, Authentication, and Real-time updates—Lovitti delivers transparency and trust in every transaction. Powered by HBAR on Hedera Hashgraph, the platform enables secure, low-cost micro-payments and smart contract execution. From farm to market, Lovitti Agro Mart is redefining how agriculture connects across Africa.
 
 👥 Team Members
@@ -58,12 +63,27 @@ Screenshots are located in the `/screenshots` folder and include:
 | 09_team_page.png | Team member profiles |
 | 10_repo_structure.png | GitHub repo layout and organization |
 
+## ⚙️ How It Works
+1. Farmers register via USSD or web.
+2. They list products with location and quantity.
+3. Buyers browse listings and place orders.
+4. Smart contracts handle secure payments.
+5. Farmers receive direct payouts — no middlemen.
+
 ## 🛠️ Tech Stack
 - Hedera Hashgraph
 - React Native (Frontend)
 - Node.js + Express (Backend)
 - Firebase (Authentication & Database)
 - IPFS (Optional for image storage)
+
+## 🧪 Testing Instructions
+To test locally:
+1. Clone the repo
+2. Run `npm install`
+3. Start frontend: `npm start`
+4. Backend: `node server.js`
+5. Use Postman to test `/api/products` and `/api/farmers`
 
 ## 📦 Getting Started
 
@@ -151,15 +171,11 @@ Imagine a buyer named Amina wants to purchase tomatoes from a farmer named Kofi.
 - Amina receives live updates: payment confirmation, dispatch time, and delivery tracking.
 - Each update is logged on the Hedera network using HBAR, creating a transparent audit trail.
 
-
-
 💸 Role of HBAR in Lovitti Agro Mart
 
 - Transaction Fees: Every blockchain interaction—whether storing data or executing smart contracts—is paid for using HBAR.
 - Smart Contract Execution: HARAR logic is embedded in smart contracts that run on Hedera, powered by HBAR.
 - Security & Speed: HBAR ensures fast, low-cost, and secure transactions—ideal for agricultural micro-payments.
-
----
 
 🌍 Why This Matters
 
@@ -183,6 +199,12 @@ npm run dev
 - Empower farmers with digital tools
 - Reduce food waste and fraud
 - Promote fair trade and transparency
+
+## 🚀 Roadmap
+- Add multilingual support for rural communities
+- Integrate weather and crop advisory services
+- Launch mobile app version
+- Partner with local cooperatives and NGOs
 
 ## 📽️ Demo Video
 [Watch on YouTube](## 📽️ Demo Video
