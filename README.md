@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Lovititi%20Agro%20Mart%20Logo.png" alt="Lovititi Agro Mart Logo" width="200"/>
+</p>
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Built with Node.js](https://img.shields.io/badge/Node.js-Built-informational)
 ![Blockchain: NEAR](https://img.shields.io/badge/Blockchain-NEAR-informational)
