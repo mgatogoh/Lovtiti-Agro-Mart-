@@ -190,5 +190,4 @@ npm run dev
 Watch the Lovtiti Agro Mart introduction on YouTube:  
 👉 [Lovtiti Agro Mart– Empowering African Farmers with Blockchain 🌍🌾](https://youtube.com/shorts/C6lBP8DBQ6k?si=jNyXDb96iVu5fGAZ)
 
-## 🤝 Join Us
-We’re looking for developers, designers, and agricultural experts to help build this vision. Let’s collaborate!
+
