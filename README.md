@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Lovititi%20Agro%20Mart%20Logo.png" alt="Lovititi Agro Mart Logo" width="200"/>
+  <img src="Agro-Tech%20Company%20Logo%20Rustic%20and%20Unique.png" alt="Lovtiti Agro Mart Logo" width="200"/>
 </p>
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
