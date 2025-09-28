@@ -10,6 +10,25 @@
 ## 🌍 Project Vision
 **Lovitti Agro Mart** is a decentralized agricultural marketplace built to empower African farmers, livestock keepers, and agro vendors by eliminating middlemen and ensuring fair pricing. Using blockchain technology and the HARAR framework—History, Availability, Reviews, Authentication, and Real-time updates—Lovitti delivers transparency and trust in every transaction. Powered by HBAR on Hedera Hashgraph, the platform enables secure, low-cost micro-payments and smart contract execution. From farm to market, Lovitti Agro Mart is redefining how agriculture connects across Africa.
 
+👥 Team Members
+
+- Mary Josephine Gatogoh – Team Lead & Project Strategist  
+Visionary founder guiding the project from concept to execution, with a focus on impact and inclusion.
+
+- Shia – UI/UX Designer  
+Responsible for crafting intuitive and culturally resonant user interfaces that reflect the heart of African agriculture.
+
+- Padmore Edusei – Frontend Developer  
+Built the digital storefront using React.js, ensuring smooth user interaction and wallet integration.
+
+- Carita – Backend Developer  
+Architected the server-side logic and database integration for secure, scalable performance.
+
+- Captain AI – Backend Developer  
+Supported backend development with route structuring, authentication, and system stability.
+
+- Gurpratap – Smart Contract Developer  
+Engineered Hedera-powered smart contracts to enable secure, traceable, and trust-based transactions.
 
 ## 🚀 Features
 - Farmer identity verification
@@ -17,6 +36,23 @@
 - Secure payments via HBAR
 - Token rewards for loyalty
 - Mobile-first design for accessibility
+
+## 📸 Screenshots
+
+Screenshots are located in the `/screenshots` folder and include:
+
+| Screen | Description |
+|--------|-------------|
+| 01_homepage.png | Landing page showcasing platform branding |
+| 02_farm_registration.png | Farmer onboarding via USSD or web |
+| 03_product_listing.png | Product listing interface |
+| 04_buyer_dashboard.png | Buyer interaction and purchase flow |
+| 05_smart_contract.png | Smart contract transaction confirmation |
+| 06_backend_test.png | Backend route test via Postman |
+| 07_ui_mockups.png | UI/UX design samples |
+| 08_mobile_view.png | Mobile responsiveness |
+| 09_team_page.png | Team member profiles |
+| 10_repo_structure.png | GitHub repo layout and organization |
 
 ## 🛠️ Tech Stack
 - Hedera Hashgraph
@@ -90,7 +126,6 @@ Lovitti-Agro-Mart/
 ## 🔐 How HARAR & HBAR Work Together in a Transaction
 Imagine a buyer named Amina wants to purchase tomatoes from a farmer named Kofi. Here’s how Lovitti Agro Mart uses HARAR and HBAR to make that transaction seamless and trustworthy:
 
----
 
 🅷 History of Product (HARAR)
 - Amina views the entire lifecycle of the tomatoes: harvest date, handling process, and previous transactions.
@@ -112,7 +147,7 @@ Imagine a buyer named Amina wants to purchase tomatoes from a farmer named Kofi.
 - Amina receives live updates: payment confirmation, dispatch time, and delivery tracking.
 - Each update is logged on the Hedera network using HBAR, creating a transparent audit trail.
 
----
+
 
 💸 Role of HBAR in Lovitti Agro Mart
 
