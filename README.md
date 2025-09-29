@@ -218,7 +218,7 @@ npm run dev
 - Partner with local cooperatives and NGOs
 
 ## 📽️ Demo Video
-[Watch on YouTube](## 📽️ Demo Video
+[Watch on YouTube](## 📽️ https://youtube.com/shorts/x08zn9PGgPI?si=aoeDDMDtZrZEfhji)
 
 Watch the Lovtiti Agro Mart introduction on YouTube:  
 👉 [Lovtiti Agro Mart– Empowering African Farmers with Blockchain 🌍🌾](https://youtube.com/shorts/C6lBP8DBQ6k?si=jNyXDb96iVu5fGAZ)
