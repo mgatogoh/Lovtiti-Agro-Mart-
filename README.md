@@ -218,7 +218,11 @@ npm run dev
 - Partner with local cooperatives and NGOs
 
 ## 📽️ Demo Video
-[Watch on YouTube](## 📽️ https://youtube.com/shorts/x08zn9PGgPI?si=aoeDDMDtZrZEfhji)
+Take a closer look at how Lovtiti Agro Mart is changing the game for African farmers. This short video captures the heart of our mission — connecting hardworking farmers directly to buyers, cutting out middlemen, and using blockchain to bring fairness and transparency to the agricultural market.
+
+👉 Watch the Demo
+
+Every frame reflects our commitment to empowering communities, reducing waste, and building a future where farmers thrive.
 
 Watch the Lovtiti Agro Mart introduction on YouTube:  
 👉 [Lovtiti Agro Mart– Empowering African Farmers with Blockchain 🌍🌾](https://youtube.com/shorts/C6lBP8DBQ6k?si=jNyXDb96iVu5fGAZ)
